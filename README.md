@@ -1,7 +1,12 @@
 # Heart Disease Risk Predictor
 
 A machine learning web application that estimates the likelihood of heart disease based on basic clinical measurements.
+## Checkout 
+https://punjan-heartdisease.streamlit.app/
 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 The application uses a **Logistic Regression** model trained on heart disease data and provides an interactive interface built with **Streamlit**.
 
 > **Disclaimer:** This project is for educational and demonstration purposes only. It is **not a medical diagnostic tool** and should not be used as a substitute for professional medical advice.
