@@ -85,7 +85,7 @@ Heart_disease/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+https://github.com/AOISYNM/Heart_Disease_Predictor.git
 ```
 
 ### 2. Navigate into the project
@@ -95,12 +95,6 @@ cd Heart_disease
 ```
 
 ### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-If you don't have a `requirements.txt` yet, install the required packages manually:
 
 ```bash
 pip install streamlit pandas numpy scikit-learn joblib
