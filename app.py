@@ -183,3 +183,7 @@ if submitted:
             pd.DataFrame([raw_input]).T.rename(columns={0: "Value"}),
             use_container_width=True,
         )
+
+
+
+# Made some fixtures in the app 
